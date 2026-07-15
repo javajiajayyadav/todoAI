@@ -12,6 +12,7 @@ env/
 
 # Streamlit logs/cache
 .streamlit/
+!.streamlit/config.toml
 
 # Database files (users/todos/history data should not be committed to GitHub)
 database/*.json
